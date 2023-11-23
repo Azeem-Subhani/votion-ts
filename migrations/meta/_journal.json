@@ -8,6 +8,13 @@
       "when": 1700754432199,
       "tag": "0000_oval_archangel",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1700756981255,
+      "tag": "0001_omniscient_magdalene",
+      "breakpoints": true
     }
   ]
 }
