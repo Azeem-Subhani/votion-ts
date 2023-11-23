@@ -5,15 +5,8 @@
     {
       "idx": 0,
       "version": "5",
-      "when": 1700744663658,
-      "tag": "0000_stale_spiral",
-      "breakpoints": true
-    },
-    {
-      "idx": 1,
-      "version": "5",
-      "when": 1700744729579,
-      "tag": "0001_lean_peter_quill",
+      "when": 1700754432199,
+      "tag": "0000_oval_archangel",
       "breakpoints": true
     }
   ]

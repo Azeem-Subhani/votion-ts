@@ -15,12 +15,12 @@ const db = drizzle(client, schema);
 const migrateDatabase = async () => {
   try {
     console.log("🟢 - Migrating Database");
-    await migrate(db, { migrationsFolder: "migrations" });
+    await migrate(db, { migrationsFolder: "./migrations" });
     console.log("🎉 - Migrated...");
   } catch (err) {
     console.log("❌ - Error Migrating Database.");
     console.log(err);
   }
 };
-
+migrateDatabase();
 export default db;
